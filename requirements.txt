@@ -1,4 +1,6 @@
+0. secrets.json is in the local file
 1. python -m pip install django
 2. python -m pip install django-debug-toolbar
 3. python manage.py migrate
 4. python manage.py createsuperuser
+5. 2020/11/20 - src/static file is needed
